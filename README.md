@@ -26,6 +26,8 @@ Large volumes of food waste generated from hostels, restaurants, and juice shops
 - Preparation of boiled jaggery solution used as a natural preservative and binder
 - Pelletization of the mixture followed by controlled re-drying to achieve target moisture levels
 
+  ![image alt](https://github.com/souvik-bhunia/Biofeed-Circular-economy/blob/3bf6b66f27a4c319a3a3d7240a423cf174c986e6/WorkPlan.png)
+
 ## Nutrient Analysis
 The formulated biofeed was analyzed using standard biochemical techniques:
 - **Protein estimation:** Lowry’s method  
