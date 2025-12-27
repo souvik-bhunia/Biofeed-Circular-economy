@@ -4,6 +4,8 @@
 ## Overview
 This project demonstrates a practical, circular-economy approach to converting post-consumer urban food waste into a stable and nutritionally balanced biofeed suitable for animal consumption. The work focuses on waste valorization, process optimization, and nutrient recovery, with relevance to sustainable feed production and urban waste management.
 
+![image alt](https://github.com/souvik-bhunia/Biofeed-Circular-economy/blob/203f12ec3c2ef0e890025d0d5c6ea12de0b7d45c/Biofeed%20(1).png)
+
 ## Problem Statement
 Large volumes of food waste generated from hostels, restaurants, and juice shops are commonly disposed of in landfills, leading to environmental pollution and greenhouse gas emissions. At the same time, the animal feed industry faces increasing cost and sustainability challenges. This project addresses both issues by transforming mixed urban food waste into value-added biofeed.
 
